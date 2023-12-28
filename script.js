@@ -21,19 +21,19 @@ animation
   delay: anime.stagger(100, { grid: grid, from: "" }),
   keyframes: [
     {
-      background: "#616D95"
+      background: "#9D95FF"
     },
     {
       background: "#FEE2C9"
     },
     {
-      background: "#233A4B"
+      background: "#00BAE2"
     },
     {
-      background: "#fbc2eb"
+      background: "#FEC5FB"
     },
     {
-      background: "#FEDF76"
+      background: "#ffee01"
     },
     {
       background: "#333"
@@ -50,19 +50,19 @@ animation
       background: "#B6B4E7"
     },
     {
-      background: "#E48E9F"
+      background: "#FEC5FB"
     },
     {
       background: "#E48E9F"
     },
     {
-      background: "#FDC754"
+      background: "#ffee01"
     },
     {
-      background: "#F4BCA1"
+      background: "#9D95FF"
     },
     {
-      background: "#D9E1ED"
+      background: "#00BAE2"
     },
   ]
 })
